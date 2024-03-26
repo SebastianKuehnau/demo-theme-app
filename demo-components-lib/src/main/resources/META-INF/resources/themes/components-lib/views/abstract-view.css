@@ -1,0 +1,21 @@
+.header {
+    background: lightslategray;
+    margin: auto;
+    width: 100%;
+    text-align: center;
+}
+
+
+
+
+    .test {
+        vaadin-horizontal-layout {
+            background-color: lightyellow;
+        }
+    }
+
+    .test2 {
+        vaadin-horizontal-layout {
+            background-color: lightblue;
+        }
+    }

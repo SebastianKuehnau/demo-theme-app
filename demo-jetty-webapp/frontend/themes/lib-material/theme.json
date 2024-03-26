@@ -1,0 +1,12 @@
+{
+  "lumoImports": ["typography", "color", "spacing", "badge", "utility"],
+  "importCss": [
+    "@fontsource/roboto/100.css",
+    "@fontsource/roboto/300.css",
+    "@fontsource/roboto/400.css",
+    "@fontsource/roboto/500.css",
+    "@fontsource/roboto/700.css",
+    "@fontsource/roboto/900.css",
+    "material-icons/iconfont/material-icons.css"
+  ]
+}
